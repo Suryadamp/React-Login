@@ -1,0 +1,35 @@
+{
+"posts":[{
+
+"id": 1,
+"title":"Life is Awsome",
+"body":"Nothing is say east to all",
+"likes":35
+
+},
+{
+    "id": 2,
+    "title":"thug of Life",
+    "body":"run with lifestyle",
+    "likes":11
+      
+},
+{
+    "id": 3,
+    "title":"god of war",
+    "body":"The god beings war",
+    "likes":6
+      
+}
+
+],
+"polls":[{
+    "id": 1,
+"question":"what is your name   ",
+"ansA":"surya",
+"ansB":"sj"
+
+}]
+
+
+}
